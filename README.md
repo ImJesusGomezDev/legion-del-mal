@@ -29,7 +29,9 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
-## El Consejo de Villanos!!
+## El Consejo de Villanos Malos!!
+
+### Es un grupo dedicado a aprender Git + GitHub
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
