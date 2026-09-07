@@ -31,6 +31,8 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## El Consejo de Villanos Malos!!
 
+### Es un grupo dedicado a aprender Git + GitHub
+
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
 | 🥇 Líder supremo          | Lex Luthor | Fundador, financista y estratega principal              |
