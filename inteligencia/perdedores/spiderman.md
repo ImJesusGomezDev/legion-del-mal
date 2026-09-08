@@ -16,3 +16,9 @@ los demás y que incluso una persona común puede marcar una diferencia.
 
 - Tía May
 - Tío Ben
+
+## Peliculas
+
+- Spider-Man: Un nuevo universo
+- Spider-Man 2
+- Spider-Man: No Way Home
